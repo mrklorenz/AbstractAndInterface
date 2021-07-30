@@ -3,5 +3,5 @@
 2. From Wuhan to Beijing you can choose from 4 means of transportation, including driving a car, taking bus, train, or plane. Driving costs 500 yuan, bus 300 yuan, train 400 yuan, and plane 1000 yuan. With the budget of 500 yuan, which vehicles Xiaoming can choose to get there? Please write codes to solve the above problems.
 
 NOTE:
-Answer for PROBLEM 1 will be on com.Interface package
-Answer for PROBLEM 2 will be on com.Abstract package
+- Answer for PROBLEM 1 will be on com.Interface package
+- Answer for PROBLEM 2 will be on com.Abstract package
